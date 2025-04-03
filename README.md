@@ -60,5 +60,5 @@ This script is intended for educational and research purposes only. Ensure you h
 MIT License
 
 ## Author
-[Your Name](https://github.com/MohammadAliMehri/)
+[Me](https://github.com/MohammadAliMehri/)
 
